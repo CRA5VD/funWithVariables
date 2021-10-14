@@ -17,5 +17,5 @@ console.log(g*h);
 console.log(a*b);
 console.log(k/g);
 console.log(l/j);
-console.log(d++j);
-console.log(l--b);
+console.log(d++);
+console.log(l--);
